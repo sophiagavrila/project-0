@@ -53,7 +53,7 @@ The project will be evaluated out of 100 points split between two main catagorie
 
 1. When is the project due? 
 
-    >A: The project will be due no earlier then Wednesday of Week 3. The exact due date will be set by QC as they schedule project presentations. 
+    >A: The project will be due no earlier than Week 4 Feb 11th. The exact due date will be set by QC as they schedule project presentations. 
 
 
 2. Can I have an extension? 
