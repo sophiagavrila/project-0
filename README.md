@@ -34,6 +34,8 @@ Using Java 8, create an application that simulates simple banking transactions.
 * Have your bank application connect to your SQL database using JDBC and store all information that way.
 * You should use the **DAO design pattern** for data connectivity.
 
+<br>
+
 ## Evaluation
 The project will be evaluated out of 100 points split between two main catagories: 70 points for the functionality and design of your project and 30 points for the presentation of your project during the project showcase. The evaluation will be further subdivided as follows: 
 
@@ -52,6 +54,7 @@ The project will be evaluated out of 100 points split between two main catagorie
 * 10 pts: Ability to communicate clear answers to fully address questions asked about the project. 
 * 5 pts: Logical flow to the project presentation. 
 
+<br>
 
 ## Frequently Asked Questions
 
@@ -81,6 +84,3 @@ The project will be evaluated out of 100 points split between two main catagorie
 
 8. If I fail the project will I be released from training?  
     >A: The project is a major component of the determination process for continued participation in training. Failure to present a project that at least has minimum functionality will lead to a release. 
-
-9. Are there really no extensions? 
-    >A: There are not.
