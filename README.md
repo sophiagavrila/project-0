@@ -27,6 +27,8 @@ Using Java 8, create an application that simulates simple banking transactions.
 *	Logging should be accomplished using Log4J
     * All transactions should be logged
 
+* **When presenting you will be connected to a production-ready AWS RDS**
+
 * Create an SQL script that will create a user in an SQL database and a table schema for storing your bank users and account information.
    * Stretch Goal: Your database includes at least 1 stored procedure.
 * Have your bank application connect to your SQL database using JDBC and store all information that way.
