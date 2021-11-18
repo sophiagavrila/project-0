@@ -1,5 +1,5 @@
 # Project 0 - Banking Application
-> 🕙 *Due: **Friday September 10th, 2021***
+> 🕙 *Due: **Thursday September 9th, 2021***
 
 <br>
 
