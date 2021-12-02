@@ -60,7 +60,7 @@ Using Java 8, create an application that simulates simple banking transactions.
 
 1. When is the project due? 
 
-    >A: The project will be due no earlier than Week 3 Sept. 9th. 
+    >A: The project will be due no earlier than Week 3 Dec. 17<sup>th</sup>. 
 
 2. Is there a code freeze? 
     >A: It is recommended that you institute your own code freeze at least a day before the project presentations. However, this is a recommendation only; it will not be enforced. NOTE: The code that will be evaluated by your trainer will be the code you last pushed to your repository BEFORE the time set for project presentations. Code submitted while presentations are on-going will not be evaluated. 
