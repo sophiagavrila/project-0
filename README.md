@@ -16,7 +16,7 @@ Using Java 8, create an application that simulates simple banking transactions.
     * Stretch Goal: Customers should be able to apply for joint accounts
 
 *	Once the account is open, customers should be able to withdraw, deposit, and transfer funds between accounts
-    * All basic validation should be done, such as trying to input negative amounts, overdrawing from accounts etc. ❗
+    * All basic validation should be done, preventing users from trying to input negative amounts, overdrawing from accounts etc. ❗
 
 *	Employees of the bank should be able to view all of their customers information. This includes:
     * Account information
