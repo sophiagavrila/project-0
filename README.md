@@ -1,6 +1,6 @@
 # Project 0 - Banking Application
-🕥 *Assigned: **Thursday August 23rd, 2021*** (Week 1) <br>
-🕙 *Due: **Thursday September 9th, 2021*** (Week 3)
+🕥 *Assigned: **Thursday December 2<sup>nd</sup>, 2021*** (Week 1) <br>
+🕙 *Due: **Friday December 17<sup>th</sup>, 2021*** (Week 3)
 
 <br>
 
